@@ -4,6 +4,7 @@
         "mohd-akram.vscode-html-format",
         "zignd.html-css-class-completion",
         "ecmel.vscode-html-css",
-        "ms-ceintl.vscode-language-pack-ja"
+        "ms-ceintl.vscode-language-pack-ja",
+        "ritwickdey.liveserver"
     ]
 }
