@@ -7,27 +7,29 @@ body {
 
 /** ヘッダー */
 
-.header_container {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    padding: 14px 0 8px 0;
+.header__container {
 }
 
-.header_logo {}
+.header__nav {
+  width: 400px;
+}
 
-.logo_image {}
+.nav-item {
+}
 
-.header_menu {}
+/* メンバー */
+.member-section .members {
+}
 
+.member {
+}
 
-/* リンク文字 */
+.member__image img {
+}
 
-.header_menu_item a {}
+.member__name {
+}
 
+/* ゲーム */
 
-/* リンク文字ホバー時 */
-
-a:hover {}
-
-.contents_item h1 {}
+/* お問い合わせ */
