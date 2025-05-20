@@ -4,7 +4,7 @@
 
 <h2>フォーク手順</h2>
 
-1. https://github.com/daichi-tokunaga/HTML-Study/fork にアクセス
+1. https://github.com/daichi-tokunaga/HTML-Kadai/fork にアクセス
 
 1. Ownerが自分のアカウント、Repository nameがkadai-appになっていることを確認
 
