@@ -1,13 +1,13 @@
 /* ページ全体 */
 
 body {
-    background-color: #0f1923;
+  background-color: #0f1923;
 }
-
 
 /** ヘッダー */
 
 .header__container {
+  display: nev;
 }
 
 .header__nav {
