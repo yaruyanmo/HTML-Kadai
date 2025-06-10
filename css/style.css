@@ -8,10 +8,13 @@ body {
 
 .header__container {
   display: nev;
+  justify-content: flex-start;
 }
 
 .header__nav {
-  width: 400px;
+  width: 950px;
+  display: flex;
+  justify-content: flex-end;
 }
 
 .nav-item {
